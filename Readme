@@ -1,0 +1,6 @@
+##Readme
+
+Compile with: make fractal
+Run with: ./fractal
+
+Note: for Mac users, need to replace #include <GL/glut.h> with #include <GLUT/glut.h>
